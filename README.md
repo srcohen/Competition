@@ -9,11 +9,11 @@ Both the executive branch and Congress have considered increasing the use of fix
 
 In service of determining where fixed price contracts are more and less appropriate, this research will provide a data-driven analysis of where fixed price contracts have resulted in negative outcomes. Using contracting data in the Federal Procurement Data System, CSIS is identifying these negative outcomes by:
 
--Measuring the exclusion of potential vendors or diminished industrial based capacity via the metric of single-offer           competition. This draws on an existing CSIS capacity but has not previously been applied at the contract level.
+  -Measuring the exclusion of potential vendors or diminished industrial based capacity via the metric of single-offer           competition. This draws on an existing CSIS capacity but has not previously been applied at the contract level.
 
--Measuring contract failure using the metric of contract termination. This variable repre-sents a new capability because it   requires drawing on a single contract’s data across multiple years when appropriate.
+  -Measuring contract failure using the metric of contract termination. This variable repre-sents a new capability because it   requires drawing on a single contract’s data across multiple years when appropriate.
 
--Measuring requirement stability using the metric of costly change orders. This is the most demanding new capability and it   requires not just the multiple year analysis for measuring contract termination, but also demands differentiating between     different sorts of contract modifications, many of which do not constitute requirements volatility.
+  -Measuring requirement stability using the metric of costly change orders. This is the most demanding new capability and it   requires not just the multiple year analysis for measuring contract termination, but also demands differentiating between     different sorts of contract modifications, many of which do not constitute requirements volatility.
 
 This capability to evaluate outcomes breaks new ground for what can be done with open source procurement research. The study is examing the correlation of these data with additional variables, including product or service category, DoD contracting offices at the major command level, and a range of contract characteristics. This will provide DoD and the public with a deeper understanding of how fixed price contracts can be most effectively used and where current contracting does and does not align with these findings. This will be especially relevant as defense investment budgets continue to decline.
 
