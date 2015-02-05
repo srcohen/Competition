@@ -1,6 +1,6 @@
 # Competition
-#Avoiding Terminations, Single Offer Competition, and Costly Change Orders with Fixed-price Contracts
-#Introduction
+Avoiding Terminations, Single Offer Competition, and Costly Change Orders with Fixed-price Contracts
+Introduction
 
 #The nonpartisan, nonprofit Center for Strategic and International Studies (CSIS) recognizes that for policymakers to be #effective stewards of the Department of Defense's (DoD) public funds, they must understand the mechanism by which these #funds are distributed to vendors. This ongoing researchs analyze when fixed price contracts deliver the best results and #when they encounter disproportionate problems.
 
