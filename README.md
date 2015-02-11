@@ -1,5 +1,5 @@
 # Competition
-Avoiding Terminations, Single Offer Competition, and Costly Change Orders with Fixed-price Contracts
+This ongoing study uses open source U.S. Department of Defense data to analyze fixed-price contract characteristics and take a revolutionary new look at outcomes. This analysis will test hypotheses regarding drivers of stable fixed price contracts and survey where they are effectively used, underused, and misapplied.
 
 #Introduction
 
